@@ -1,8 +1,8 @@
 ## Introduction
 
-During the period March-April 2018, Kaggle held a competition called DonorsChoose.org Application Screening. The goal was to predict whether teachers' project proposals were accepted by DonorsChoose.org, a non-profit organization. A full description of this competition is below. 
+During the period September 2017 - February 2018, Kaggle held a competition called Dog Breed Identification. The goal was to categorize the breed of a dog from an image, with data from ImageNet via the Stanford Dogs Dataset. A full description of this competition is below. 
 
-For processing the data, feature engineering and word vectorization (using TF-IDF) were used. For modeling the data, feature selection and XGBoost generated reasonable predictions.
+We took two approaches to this challenge: a feed-forward neural network (FFNN) using TensorFlow, and a Convolutional Neural Network (CNN) using Keras based on the VGG16 pre-trained model. For both approaches we used image augmentation, such as sharpening, rotation, and warping. 
 
 ## Description of Competition (from Kaggle Site)
 
