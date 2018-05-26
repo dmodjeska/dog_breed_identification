@@ -14,3 +14,7 @@ In this playground competition, you are provided a strictly canine subset of Ima
 
 * [Feed Forward Neural Network (FFNN)](https://github.com/dmodjeska/dog_breed_identification/blob/master/HW4_AML71_Modjeska_Murphy_FFNN.ipynb)
 * [Convolutional Neural Network (CCNN)](https://github.com/dmodjeska/dog_breed_identification/blob/master/HW4_AML71_Modjeska_Murphy_CNN.ipynb)
+
+## Etc.
+
+![](https://github.com/dmodjeska/dog_breed_identification/blob/master/dog.png)
