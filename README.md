@@ -17,4 +17,8 @@ In this playground competition, you are provided a strictly canine subset of Ima
 
 ## Etc.
 
-![](https://github.com/dmodjeska/dog_breed_identification/blob/master/dog.png)
+#### Sample Dog Image
+!["Sample Dog Image"](https://github.com/dmodjeska/dog_breed_identification/blob/master/dog2.png "Sample Dog Image")
+
+#### Sample AUC Graph
+!["Sample AUC Graph"](https://github.com/dmodjeska/dog_breed_identification/blob/master/auc.png "Sample AUC Graph")
